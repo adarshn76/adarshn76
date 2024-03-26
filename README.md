@@ -5,7 +5,7 @@ I'm Adarsh N, a recent Master of Computer Applications (MCA) graduate aspiring t
 ## About Me
 
 - 🎓 I recently graduated with a Master of Computer Applications (MCA) degree.
-- 💼 I'm actively seeking opportunities to kick-start my career in Sofware Industry.
+- 💼 I'm actively seeking opportunities to kick-start my career in Software Industry.
 - 🌱 I'm passionate about FSD, and I'm eager to learn and grow in the tech industry.
 
 
